@@ -1,4 +1,4 @@
-# This is a Law Landing Page
+# This is a Restaurant Landing Page
 
 ## Deployed Link
 
